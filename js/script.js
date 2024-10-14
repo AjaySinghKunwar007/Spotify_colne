@@ -224,7 +224,7 @@ if(currentSong.volume>0){
   document.querySelector(".volume>img").src= document.querySelector(".volume>img").src.replace("mute.svg","volume.svg");
 }
 })
-
+//for textting git hub
 
 // add eventlistner to mute the track
 
